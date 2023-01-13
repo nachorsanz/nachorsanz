@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  [!linkedin[linked][linked-url]]
+  [![linkedin][linked][linked-url]]
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
