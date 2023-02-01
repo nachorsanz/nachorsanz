@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nacho Rodríguez</h1>
-<h3 align="center">A passionate frontend developer from Spain</h3>
+<h3 align="center">A passionate Javascript Full Stack developer from Spain</h3>
 
 - 🔭 I’m currently working on [Sherpa](https://es.wikipedia.org/wiki/BSH_Electrodom%C3%A9sticos_Espa%C3%B1a)
 
