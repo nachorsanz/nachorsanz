@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nacho Rodríguez</h1>
 <h3 align="center">A passionate Javascript Full Stack developer from Spain</h3>
-# 💫 About Me:
+
 🔭 I’m currently working on Some Projects<br><br>🌱 I’m currently learning React, and other frontend tecnologies<br><br>👯 I’m looking to collaborate on react-dynamic-buttons<br><br>🤝 I’m looking for help with react-dynamic-buttons<br><br>👨‍💻 All of my projects are available at https://github.com/nachorsanz<br><br>📝 I regularly write articles on https://es.linkedin.com/in/nachorodriguezsanz<br><br>💬 Ask me about React,JasvaScript, TS....<br><br>📫 How to reach me nachorsanz@gmail.com<br><br>📄 Know about my experiences https://es.linkedin.com/in/nachorodriguezsanz
 
 
